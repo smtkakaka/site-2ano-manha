@@ -1,4 +1,4 @@
-*{
+{
     margin: 0;
     padding: 0;
 }
@@ -42,3 +42,10 @@
 .escola-div-conteudo{
 width: 35%;
 }
+.estudante-foto {
+    width:10%
+}
+.estudante-imagem {
+    width:10%
+}
+
