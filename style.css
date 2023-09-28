@@ -43,8 +43,16 @@
 width: 35%;
 }
 .estudante-foto {
-    width:0,1%
+    width:5%
 }
 .estudante-imagem {
-    width: 0,1%
+    width:1%
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
 }
